@@ -1,5 +1,3 @@
-# sfml_imgui_test
+# Game of Robot Clone
 
-Example or Template for SFML applications with ImGui integration.
-
-To use this, simply put your application and ImGui code into MyApplication or derrive your own class from Application
+Clone of the Game of Robot engine from Tom Productions.
