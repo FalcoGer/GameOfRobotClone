@@ -1,0 +1,7 @@
+[submodule "imgui"]
+	path = depends/imgui
+	url = git@github.com:ocornut/imgui.git
+	branch = docking
+[submodule "imgui-sfml"]
+	path = depends/imgui-sfml
+	url = git@github.com:eliasdaler/imgui-sfml.git
